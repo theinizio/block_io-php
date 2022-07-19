@@ -6,8 +6,7 @@
     "homepage": "https://block.io",
     "type": "library",
     "require": {
-        "php": ">=7.2",
-	"bitwasp/bitcoin": "dev-minimal",
+	"bitwasp/bitcoin": "^1.0.5",
         "ext-gmp": "*",
         "ext-curl": "*",
 	"ext-bcmath": "*",
